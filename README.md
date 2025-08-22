@@ -63,6 +63,15 @@ Also included a helper macro to **remove all macro assignments from shapes** whe
 Files Download link:
 https://drive.google.com/drive/folders/1DPK-maC3A5WVRAPgxHIYFRRhq8j-DbUb
 
+<img width="1032" height="589" alt="COMPLETED_TRIPS" src="https://github.com/user-attachments/assets/8c2d2a80-d82a-4dea-858d-eb4ece6b1840" />
+
+<img width="1023" height="583" alt="CANCELLED_TRIPS" src="https://github.com/user-attachments/assets/a335a70f-3974-4460-887b-c6a9ab377944" />
+
+<img width="1030" height="588" alt="SINGLE_VEHICLE_TRIP" src="https://github.com/user-attachments/assets/f8191ec8-52fd-4ac3-8f53-3bc11846b654" />
+
+<img width="1022" height="587" alt="TOTAL_TRIPS" src="https://github.com/user-attachments/assets/2075c492-8272-4e5e-ba11-60c76ef50892" />
+
+
 https://github.com/user-attachments/assets/d383fe0c-a6c5-47e5-899f-bcfb74781a7c
 
 ---
